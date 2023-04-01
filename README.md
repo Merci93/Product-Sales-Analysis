@@ -22,6 +22,8 @@ The data only relates to the new products sold. As there are multiple different 
 - **nb_site_visits**: Numeric, number of times the customer has visited our website in the last 6 months
 - **state:** Character, location of the customer i.e. where orders are shipped
 
+![](system_png/weekly_revenue.png)
+
 # Data Validation
 The data set contains 15,000 observations and 8 features before the cleaning and validation process. Using the validation criteria, the following validation was made:
 
