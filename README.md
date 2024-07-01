@@ -1,4 +1,4 @@
-# Product_Sales_Analysis - Data Analyst Certification Examination Submission
+# Product Sales Analysis - Data Analyst Certification Examination Submission
 An analysis of the marketing strategy for Pen and Printers, a company that provides high quality office products to large organizations and founded in 1984. They have built long lasting relationships with our customers and they trust us to provide them with the best products for them. As the way in which consumers buy products is changing, our sales tactics have to change too. Launching a new product line is expensive and we need to make sure we are using the best techniques to sell the new product effectively. The best approach may vary for each new product so we need to learn quickly what works and what doesn’t.
 
 # Task
@@ -22,7 +22,7 @@ The data only relates to the new products sold. As there are multiple different 
 - **nb_site_visits**: Numeric, number of times the customer has visited our website in the last 6 months
 - **state:** Character, location of the customer i.e. where orders are shipped
 
-![](system_png/weekly_revenue.png)
+![](img/weekly_revenue.png)
 
 # Data Validation
 The data set contains 15,000 observations and 8 features before the cleaning and validation process. Using the validation criteria, the following validation was made:
