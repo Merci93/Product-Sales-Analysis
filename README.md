@@ -33,8 +33,8 @@ The data set contains 15,000 observations and 8 features before the cleaning and
 - **nb_sold**: 10 unique values, needed no cleaning and no missing values.
 - **revenue**: had 1074 missing values, of which the rows were dropped from the data set.
 - **years as customer**: had two major values not corresponding: 47 and 63 which were way more than the number of years Pens and Printers has been in existence, 39 years. It made no sense having a customer when the business was not in existence. These rows were dropped.
-- **nb_site_visits**: Needed to cleaning.
-- **state**: Needed to cleaning too.
+- **nb_site_visits**: Number of visits to the company site. Data needed to be wrangled.
+- **state**: Data needed to be wrangled too.
 
 At the end of the validation and cleaning process, the data conatined **13,924** rows and **8** columns.
 
